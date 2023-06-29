@@ -15,7 +15,7 @@
 - [ChatGLM-Efficient-Tuning](https://github.com/hiyouga/ChatGLM-Efficient-Tuning) | | ![Stars](https://img.shields.io/github/stars/hiyouga/ChatGLM-Efficient-Tuning?style=social&label=Stars)
 - [LLaMA-Efficient-Tuning](https://github.com/hiyouga/LLaMA-Efficient-Tuning) | | ![Stars](https://img.shields.io/github/stars/hiyouga/LLaMA-Efficient-Tuning?style=social&label=Stars)
 - [llm-foundry](https://github.com/mosaicml/llm-foundry) | | ![Stars](https://img.shields.io/github/stars/mosaicml/llm-foundry?style=social&label=Stars)
-- [OpenLLM](https://github.com/bentoml/OpenLLM) | An open platform for operating large language models (LLMs) in production. Fine-tune, serve, deploy, and monitor any LLMs with ease. | ![Stars](https://img.shields.io/github/stars/bentoml/OpenLLM)?style=social&label=Stars)
+- [OpenLLM](https://github.com/bentoml/OpenLLM) | An open platform for operating large language models (LLMs) in production. Fine-tune, serve, deploy, and monitor any LLMs with ease. | ![Stars](https://img.shields.io/github/stars/bentoml/OpenLLM?style=social&label=Stars)
 - [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) | Specify what you want it to build, the AI asks for clarification, and then builds it. | ![Stars](https://img.shields.io/github/stars/AntonOsika/gpt-engineer?style=social&label=Stars)
 - [freegpt-webui](https://github.com/ramonvc/freegpt-webui) | GPT 3.5/4 with a Chat Web UI. No API key required. | ![Stars](https://img.shields.io/github/stars/ramonvc/freegpt-webui?style=social&label=Stars)
 - [flash-attention](https://github.com/HazyResearch/flash-attention) | Fast and memory-efficient exact attention | ![Stars](https://img.shields.io/github/stars/HazyResearch/flash-attention?style=social&label=Stars)
