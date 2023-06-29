@@ -6,10 +6,13 @@
 - [fingpt](https://github.com/ai4finance-foundation/fingpt) ![Stars](https://img.shields.io/github/stars/ai4finance-foundation/fingpt?style=social&label=Stars)
 - [LOMO: LOw-Memory Optimization](https://github.com/openlmlab/lomo) ![Stars](https://img.shields.io/github/stars/openlmlab/lomo?style=social&label=Stars)
 - [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) ![Stars](https://img.shields.io/github/stars/THUDM/ChatGLM2-6B?style=social&label=Stars)
+- [AutoGPTQ](https://github.com/PanQiWei/AutoGPTQ) | An easy-to-use LLMs quantization package with user-friendly apis, based on GPTQ algorithm. | ![Stars](https://img.shields.io/github/stars/PanQiWei/AutoGPTQ?style=social&label=Stars)
 
 ### MM
 - [Awesome-Multimodal-Large-Language-Models](https://github.com/bradyfu/awesome-multimodal-large-language-models) | ![Stars](https://img.shields.io/github/stars/bradyfu/awesome-multimodal-large-language-models?style=social&label=Stars)
 
 ### CV
-
 - [Fast SAM](https://github.com/casia-iva-lab/fastsam) | ![Stars](https://img.shields.io/github/stars/casia-iva-lab/fastsam?style=social&label=Stars)
+
+### Others
+- []() | | ![Stars](https://img.shields.io/github/stars//?style=social&label=Stars)
