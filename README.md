@@ -27,6 +27,7 @@
 
 ### CV
 - [Fast SAM](https://github.com/casia-iva-lab/fastsam) | ![Stars](https://img.shields.io/github/stars/casia-iva-lab/fastsam?style=social&label=Stars)
+- [mobilesam](https://github.com/chaoningzhang/mobilesam) | | ![Stars](https://img.shields.io/github/stars/chaoningzhang/mobilesam?style=social&label=Stars)
 
 ### Others
 - []() | | ![Stars](https://img.shields.io/github/stars//?style=social&label=Stars)
