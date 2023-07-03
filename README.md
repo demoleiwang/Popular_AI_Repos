@@ -22,6 +22,10 @@
 - [exllama](https://github.com/turboderp/exllama) | | ![Stars](https://img.shields.io/github/stars/turboderp/exllama?style=social&label=Stars)
 - [embedchain](https://github.com/embedchain/embedchain) | | ![Stars](https://img.shields.io/github/stars/embedchain/embedchain?style=social&label=Stars)
 - [chatlaw](https://github.com/pku-yuangroup/chatlaw) | | ![Stars](https://img.shields.io/github/stars/pku-yuangroup/chatlaw?style=social&label=Stars)
+- [tinygrad](https://github.com/geohot/tinygrad) | You like pytorch? You like micrograd? You love tinygrad! | ![Stars](https://img.shields.io/github/stars/geohot/tinygrad?style=social&label=Stars)
+- [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) | A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably. | ![Stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social&label=Stars)
+- [localGPT](https://github.com/PromtEngineer/localGPT) | | ![Stars](https://img.shields.io/github/stars/PromtEngineer/localGPT?style=social&label=Stars)
+- [text-generation-webui](https://github.com/oobabooga/text-generation-webui) | | ![Stars](https://img.shields.io/github/stars/oobabooga/text-generation-webui?style=social&label=Stars)
 
 
 #### Reasoning
