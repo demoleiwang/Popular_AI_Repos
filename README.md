@@ -25,6 +25,7 @@
 - [tinygrad](https://github.com/geohot/tinygrad) | You like pytorch? You like micrograd? You love tinygrad! | ![Stars](https://img.shields.io/github/stars/geohot/tinygrad?style=social&label=Stars)
 - [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) | A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably. | ![Stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social&label=Stars)
 - [text-generation-webui](https://github.com/oobabooga/text-generation-webui) | | ![Stars](https://img.shields.io/github/stars/oobabooga/text-generation-webui?style=social&label=Stars)
+- [Use-LLMs-in-Colab](https://github.com/WangRongsheng/Use-LLMs-in-Colab) | 集合众多大模型在Colab上的使用 | LLMs is all you need. | ![Stars](https://img.shields.io/github/stars/WangRongsheng/Use-LLMs-in-Colab?style=social&label=Stars)
 
 
 #### Reasoning
@@ -32,6 +33,7 @@
 
 ### MM
 - [Awesome-Multimodal-Large-Language-Models](https://github.com/bradyfu/awesome-multimodal-large-language-models) | ![Stars](https://img.shields.io/github/stars/bradyfu/awesome-multimodal-large-language-models?style=social&label=Stars)
+- [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) | MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models | ![Stars](https://img.shields.io/github/stars/Vision-CAIR/MiniGPT-4?style=social&label=Stars)
 
 ### CV
 - [Fast SAM](https://github.com/casia-iva-lab/fastsam) | ![Stars](https://img.shields.io/github/stars/casia-iva-lab/fastsam?style=social&label=Stars)
