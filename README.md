@@ -21,6 +21,8 @@
 - [flash-attention](https://github.com/HazyResearch/flash-attention) | Fast and memory-efficient exact attention | ![Stars](https://img.shields.io/github/stars/HazyResearch/flash-attention?style=social&label=Stars)
 - [exllama](https://github.com/turboderp/exllama) | | ![Stars](https://img.shields.io/github/stars/turboderp/exllama?style=social&label=Stars)
 - [embedchain](https://github.com/embedchain/embedchain) | | ![Stars](https://img.shields.io/github/stars/embedchain/embedchain?style=social&label=Stars)
+- [chatlaw](https://github.com/pku-yuangroup/chatlaw) | | ![Stars](https://img.shields.io/github/stars/pku-yuangroup/chatlaw?style=social&label=Stars)
+
 
 #### Reasoning
 - [leandojo](https://github.com/lean-dojo/leandojo) | | ![Stars](https://img.shields.io/github/stars/lean-dojo/leandojo?style=social&label=Stars)
