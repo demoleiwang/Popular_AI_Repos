@@ -22,6 +22,9 @@
 - [exllama](https://github.com/turboderp/exllama) | | ![Stars](https://img.shields.io/github/stars/turboderp/exllama?style=social&label=Stars)
 - [embedchain](https://github.com/embedchain/embedchain) | | ![Stars](https://img.shields.io/github/stars/embedchain/embedchain?style=social&label=Stars)
 
+#### Reasoning
+- [leandojo](https://github.com/lean-dojo/leandojo) | | ![Stars](https://img.shields.io/github/stars/lean-dojo/leandojo?style=social&label=Stars)
+
 ### MM
 - [Awesome-Multimodal-Large-Language-Models](https://github.com/bradyfu/awesome-multimodal-large-language-models) | ![Stars](https://img.shields.io/github/stars/bradyfu/awesome-multimodal-large-language-models?style=social&label=Stars)
 
