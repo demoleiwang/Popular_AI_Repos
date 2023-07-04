@@ -42,4 +42,4 @@
 - [mobilesam](https://github.com/chaoningzhang/mobilesam) | | ![Stars](https://img.shields.io/github/stars/chaoningzhang/mobilesam?style=social&label=Stars)
 
 ### Others
-- []() | | ![Stars](https://img.shields.io/github/stars//?style=social&label=Stars)
+- [SearchAnything](https://github.com/Immortalise/SearchAnything) | | ![Stars](https://img.shields.io/github/stars/Immortalise/SearchAnything?style=social&label=Stars)
