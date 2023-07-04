@@ -28,6 +28,7 @@
 - [Use-LLMs-in-Colab](https://github.com/WangRongsheng/Use-LLMs-in-Colab) | 集合众多大模型在Colab上的使用 | LLMs is all you need. | ![Stars](https://img.shields.io/github/stars/WangRongsheng/Use-LLMs-in-Colab?style=social&label=Stars)
 - [openchat](https://github.com/imoneoi/openchat) | huggingface.co/openchat/openchat | ![Stars](https://img.shields.io/github/stars/imoneoi/openchat?style=social&label=Stars)
 - [alpaca_eval](https://github.com/tatsu-lab/alpaca_eval) | | ![Stars](https://img.shields.io/github/stars/tatsu-lab/alpaca_eval?style=social&label=Stars)
+- [ultrachat](https://github.com/thunlp/ultrachat) | | ![Stars](https://img.shields.io/github/stars/thunlp/ultrachat?style=social&label=Stars)
 
 
 #### Reasoning
@@ -43,3 +44,4 @@
 
 ### Others
 - [SearchAnything](https://github.com/Immortalise/SearchAnything) | | ![Stars](https://img.shields.io/github/stars/Immortalise/SearchAnything?style=social&label=Stars)
+- [flash-attention](https://github.com/hazyresearch/flash-attention) | | ![Stars](https://img.shields.io/github/stars/hazyresearch/flash-attention?style=social&label=Stars)
