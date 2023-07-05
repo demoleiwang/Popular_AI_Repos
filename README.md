@@ -42,6 +42,11 @@
 - [Fast SAM](https://github.com/casia-iva-lab/fastsam) | ![Stars](https://img.shields.io/github/stars/casia-iva-lab/fastsam?style=social&label=Stars)
 - [mobilesam](https://github.com/chaoningzhang/mobilesam) | | ![Stars](https://img.shields.io/github/stars/chaoningzhang/mobilesam?style=social&label=Stars)
 
+### Paper List
+- [Dataset-Distillation](https://github.com/Guang000/Awesome-Dataset-Distillation) | | ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?style=social&label=Stars)
+
 ### Others
 - [SearchAnything](https://github.com/Immortalise/SearchAnything) | | ![Stars](https://img.shields.io/github/stars/Immortalise/SearchAnything?style=social&label=Stars)
 - [flash-attention](https://github.com/hazyresearch/flash-attention) | | ![Stars](https://img.shields.io/github/stars/hazyresearch/flash-attention?style=social&label=Stars)
+- []() | | ![Stars](https://img.shields.io/github/stars/?style=social&label=Stars)
+- []() | | ![Stars](https://img.shields.io/github/stars/?style=social&label=Stars)
