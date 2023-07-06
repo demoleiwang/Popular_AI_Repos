@@ -1,6 +1,6 @@
 # Popular_AI_Repos
 
-### LLM
+### NLP
 - [wizardlm](https://github.com/nlpxucan/wizardlm) | ![Stars](https://img.shields.io/github/stars/nlpxucan/wizardlm?style=social&label=Stars)
 - [webglm](https://github.com/thudm/webglm) | ![Stars](https://img.shields.io/github/stars/thudm/webglm?style=social&label=Stars)
 - [fingpt](https://github.com/ai4finance-foundation/fingpt) ![Stars](https://img.shields.io/github/stars/ai4finance-foundation/fingpt?style=social&label=Stars)
