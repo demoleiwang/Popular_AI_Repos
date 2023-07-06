@@ -30,9 +30,7 @@
 - [alpaca_eval](https://github.com/tatsu-lab/alpaca_eval) | | ![Stars](https://img.shields.io/github/stars/tatsu-lab/alpaca_eval?style=social&label=Stars)
 - [ultrachat](https://github.com/thunlp/ultrachat) | | ![Stars](https://img.shields.io/github/stars/thunlp/ultrachat?style=social&label=Stars)
 - [MetaGPT](https://github.com/geekan/MetaGPT) | | ![Stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social&label=Stars)
-
-
-#### Reasoning
+- [Finetune-ChatGLM2-6B](https://github.com/SpongebBob/Finetune-ChatGLM2-6B) | | ![Stars](https://img.shields.io/github/stars/SpongebBob/Finetune-ChatGLM2-6B?style=social&label=Stars)
 - [leandojo](https://github.com/lean-dojo/leandojo) | | ![Stars](https://img.shields.io/github/stars/lean-dojo/leandojo?style=social&label=Stars)
 
 ### MM
@@ -52,5 +50,4 @@
 - [flash-attention](https://github.com/hazyresearch/flash-attention) | | ![Stars](https://img.shields.io/github/stars/hazyresearch/flash-attention?style=social&label=Stars)
 - [computer-science](https://github.com/ossu/computer-science) | | ![Stars](https://img.shields.io/github/stars/ossu/computer-science?style=social&label=Stars)
 - [public-apis](https://github.com/public-apis/public-apis) | | ![Stars](https://img.shields.io/github/stars/public-apis/public-apis?style=social&label=Stars)
-- []() | | ![Stars](https://img.shields.io/github/stars/?style=social&label=Stars)
 - []() | | ![Stars](https://img.shields.io/github/stars/?style=social&label=Stars)
