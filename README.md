@@ -29,6 +29,7 @@
 - [openchat](https://github.com/imoneoi/openchat) | huggingface.co/openchat/openchat | ![Stars](https://img.shields.io/github/stars/imoneoi/openchat?style=social&label=Stars)
 - [alpaca_eval](https://github.com/tatsu-lab/alpaca_eval) | | ![Stars](https://img.shields.io/github/stars/tatsu-lab/alpaca_eval?style=social&label=Stars)
 - [ultrachat](https://github.com/thunlp/ultrachat) | | ![Stars](https://img.shields.io/github/stars/thunlp/ultrachat?style=social&label=Stars)
+- [MetaGPT](https://github.com/geekan/MetaGPT) | | ![Stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social&label=Stars)
 
 
 #### Reasoning
@@ -41,6 +42,7 @@
 ### CV
 - [Fast SAM](https://github.com/casia-iva-lab/fastsam) | ![Stars](https://img.shields.io/github/stars/casia-iva-lab/fastsam?style=social&label=Stars)
 - [mobilesam](https://github.com/chaoningzhang/mobilesam) | | ![Stars](https://img.shields.io/github/stars/chaoningzhang/mobilesam?style=social&label=Stars)
+- [diffusers](https://github.com/huggingface/diffusers) | | ![Stars](https://img.shields.io/github/stars/huggingface/diffusers?style=social&label=Stars)
 
 ### Paper List
 - [Dataset-Distillation](https://github.com/Guang000/Awesome-Dataset-Distillation) | | ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?style=social&label=Stars)
@@ -49,4 +51,6 @@
 - [SearchAnything](https://github.com/Immortalise/SearchAnything) | | ![Stars](https://img.shields.io/github/stars/Immortalise/SearchAnything?style=social&label=Stars)
 - [flash-attention](https://github.com/hazyresearch/flash-attention) | | ![Stars](https://img.shields.io/github/stars/hazyresearch/flash-attention?style=social&label=Stars)
 - [computer-science](https://github.com/ossu/computer-science) | | ![Stars](https://img.shields.io/github/stars/ossu/computer-science?style=social&label=Stars)
+- [public-apis](https://github.com/public-apis/public-apis) | | ![Stars](https://img.shields.io/github/stars/public-apis/public-apis?style=social&label=Stars)
+- []() | | ![Stars](https://img.shields.io/github/stars/?style=social&label=Stars)
 - []() | | ![Stars](https://img.shields.io/github/stars/?style=social&label=Stars)
