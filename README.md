@@ -48,5 +48,5 @@
 ### Others
 - [SearchAnything](https://github.com/Immortalise/SearchAnything) | | ![Stars](https://img.shields.io/github/stars/Immortalise/SearchAnything?style=social&label=Stars)
 - [flash-attention](https://github.com/hazyresearch/flash-attention) | | ![Stars](https://img.shields.io/github/stars/hazyresearch/flash-attention?style=social&label=Stars)
-- []() | | ![Stars](https://img.shields.io/github/stars/?style=social&label=Stars)
+- [computer-science](https://github.com/ossu/computer-science) | | ![Stars](https://img.shields.io/github/stars/ossu/computer-science?style=social&label=Stars)
 - []() | | ![Stars](https://img.shields.io/github/stars/?style=social&label=Stars)
