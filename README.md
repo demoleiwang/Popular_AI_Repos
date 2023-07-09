@@ -32,6 +32,14 @@
 - [MetaGPT](https://github.com/geekan/MetaGPT) | | ![Stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social&label=Stars)
 - [Finetune-ChatGLM2-6B](https://github.com/SpongebBob/Finetune-ChatGLM2-6B) | | ![Stars](https://img.shields.io/github/stars/SpongebBob/Finetune-ChatGLM2-6B?style=social&label=Stars)
 - [leandojo](https://github.com/lean-dojo/leandojo) | | ![Stars](https://img.shields.io/github/stars/lean-dojo/leandojo?style=social&label=Stars)
+- [h2ogpt](https://github.com/h2oai/h2ogpt) | | ![Stars](https://img.shields.io/github/stars/h2oai/h2ogpt?style=social&label=Stars)
+- [llm-eval-survey](https://github.com/mlgroupjlu/llm-eval-survey) | | ![Stars](https://img.shields.io/github/stars/mlgroupjlu/llm-eval-survey?style=social&label=Stars)
+- [LongNet](https://github.com/kyegomez/LongNet) | | ![Stars](https://img.shields.io/github/stars/kyegomez/LongNet?style=social&label=Stars)
+- [long_llama](https://github.com/cstankonrad/long_llama) | | ![Stars](https://img.shields.io/github/stars/cstankonrad/long_llama?style=social&label=Stars)
+- [lit-gpt](https://github.com/Lightning-AI/lit-gpt) | | ![Stars](https://img.shields.io/github/stars/Lightning-AI/lit-gpt?style=social&label=Stars)
+- [pythia](https://github.com/eleutherai/pythia) | | ![Stars](https://img.shields.io/github/stars/eleutherai/pythia?style=social&label=Stars)
+- [gpt-neox](https://github.com/eleutherai/gpt-neox) | | ![Stars](https://img.shields.io/github/stars/eleutherai/gpt-neox?style=social&label=Stars)
+
 
 ### MM
 - [Awesome-Multimodal-Large-Language-Models](https://github.com/bradyfu/awesome-multimodal-large-language-models) | ![Stars](https://img.shields.io/github/stars/bradyfu/awesome-multimodal-large-language-models?style=social&label=Stars)
