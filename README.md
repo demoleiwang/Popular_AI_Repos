@@ -44,6 +44,7 @@
 ### MM
 - [Awesome-Multimodal-Large-Language-Models](https://github.com/bradyfu/awesome-multimodal-large-language-models) | ![Stars](https://img.shields.io/github/stars/bradyfu/awesome-multimodal-large-language-models?style=social&label=Stars)
 - [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) | MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models | ![Stars](https://img.shields.io/github/stars/Vision-CAIR/MiniGPT-4?style=social&label=Stars)
+- [shikras](https://github.com/shikras/shikra) | | ![Stars](https://img.shields.io/github/stars/shikras/shikra?style=social&label=Stars)
 
 ### CV
 - [Fast SAM](https://github.com/casia-iva-lab/fastsam) | ![Stars](https://img.shields.io/github/stars/casia-iva-lab/fastsam?style=social&label=Stars)
