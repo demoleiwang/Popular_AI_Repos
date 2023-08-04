@@ -3,6 +3,7 @@
 ## Paper List
 
 - [RLHF](https://github.com/opendilab/awesome-RLHF) | ![Stars](https://img.shields.io/github/stars/opendilab/awesome-RLHF?style=social&label=Stars)
+- [LLM-Agents](https://github.com/AGI-Edgerunners/LLM-Agents-Papers) | ![Stars](https://img.shields.io/github/stars/AGI-Edgerunners/LLM-Agents-Papers?style=social&label=Stars)
 
 ## Code Repo
 
