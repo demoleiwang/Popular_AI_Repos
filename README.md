@@ -17,6 +17,7 @@
 - [ContrasL-NLP](https://github.com/ryanzhumich/Contrastive-Learning-NLP-Papers) | | ![Stars](https://img.shields.io/github/stars/ryanzhumich/Contrastive-Learning-NLP-Papers?style=social&label=Stars)
 - [DataAug](https://github.com/AgaMiko/data-augmentation-review) | | ![Stars](https://img.shields.io/github/stars/AgaMiko/data-augmentation-review?style=social&label=Stars)
 - [InteractiveNLP](https://github.com/InteractiveNLP-Team/awesome-InteractiveNLP-papers) | | ![Stars](https://img.shields.io/github/stars/InteractiveNLP-Team/awesome-InteractiveNLP-papers?style=social&label=Stars)
+- [Quantization](https://github.com/Zhen-Dong/Awesome-Quantization-Papers) | | ![Stars](https://img.shields.io/github/stars/Zhen-Dong/Awesome-Quantization-Papers?style=social&label=Stars)
 
 ## Code Repo
 
