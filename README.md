@@ -1,5 +1,11 @@
 # Popular_AI_Repos
 
+## Paper List
+
+- [RLHF](https://github.com/opendilab/awesome-RLHF) | ![Stars](https://img.shields.io/github/stars/opendilab/awesome-RLHF?style=social&label=Stars)
+
+## Code Repo
+
 ### NLP
 - [wizardlm](https://github.com/nlpxucan/wizardlm) | ![Stars](https://img.shields.io/github/stars/nlpxucan/wizardlm?style=social&label=Stars)
 - [webglm](https://github.com/thudm/webglm) | ![Stars](https://img.shields.io/github/stars/thudm/webglm?style=social&label=Stars)
