@@ -10,11 +10,13 @@
 - [ToolLearning](https://github.com/thunlp/ToolLearningPapers) | | ![Stars](https://img.shields.io/github/stars/thunlp/ToolLearningPapers?style=social&label=Stars)
 - [LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) | | ![Stars](https://img.shields.io/github/stars/RUCAIBox/LLMSurvey?style=social&label=Stars)
 - [LLM-hallucination](https://github.com/HillZhang1999/llm-hallucination-survey) | | ![Stars](https://img.shields.io/github/stars/llm-hallucination-survey?style=social&label=Stars)
-- [causal-text](https://github.com/causaltext/causal-text-papers) | | ![Stars](https://img.shields.io/github/stars/causaltext/causal-text-papers?style=social&label=Stars)
-- []() | | ![Stars](https://img.shields.io/github/stars/?style=social&label=Stars)
-- []() | | ![Stars](https://img.shields.io/github/stars/?style=social&label=Stars)
-- []() | | ![Stars](https://img.shields.io/github/stars/?style=social&label=Stars)
-- []() | | ![Stars](https://img.shields.io/github/stars/?style=social&label=Stars)
+- [Causal-text](https://github.com/causaltext/causal-text-papers) | | ![Stars](https://img.shields.io/github/stars/causaltext/causal-text-papers?style=social&label=Stars)
+- [Generative-RecSys](https://github.com/jihoo-kim/Awesome-Generative-RecSys) | | ![Stars](https://img.shields.io/github/stars/jihoo-kim/Awesome-Generative-RecSys?style=social&label=Stars)
+- [Diffusion-Models](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) | | ![Stars](https://img.shields.io/github/stars/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy?style=social&label=Stars)
+- [Equivariant-network](https://github.com/Chen-Cai-OSU/awesome-equivariant-network) | | ![Stars](https://img.shields.io/github/stars/Chen-Cai-OSU/awesome-equivariant-network?style=social&label=Stars)
+- [ContrasL-NLP](https://github.com/ryanzhumich/Contrastive-Learning-NLP-Papers) | | ![Stars](https://img.shields.io/github/stars/ryanzhumich/Contrastive-Learning-NLP-Papers?style=social&label=Stars)
+- [DataAug](https://github.com/AgaMiko/data-augmentation-review) | | ![Stars](https://img.shields.io/github/stars/AgaMiko/data-augmentation-review?style=social&label=Stars)
+- [InteractiveNLP](https://github.com/InteractiveNLP-Team/awesome-InteractiveNLP-papers) | | ![Stars](https://img.shields.io/github/stars/InteractiveNLP-Team/awesome-InteractiveNLP-papers?style=social&label=Stars)
 
 ## Code Repo
 
