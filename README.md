@@ -18,6 +18,7 @@
 - [DataAug](https://github.com/AgaMiko/data-augmentation-review) | | ![Stars](https://img.shields.io/github/stars/AgaMiko/data-augmentation-review?style=social&label=Stars)
 - [InteractiveNLP](https://github.com/InteractiveNLP-Team/awesome-InteractiveNLP-papers) | | ![Stars](https://img.shields.io/github/stars/InteractiveNLP-Team/awesome-InteractiveNLP-papers?style=social&label=Stars)
 - [Quantization](https://github.com/Zhen-Dong/Awesome-Quantization-Papers) | | ![Stars](https://img.shields.io/github/stars/Zhen-Dong/Awesome-Quantization-Papers?style=social&label=Stars)
+- [LVLM](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) | | ![Stars](https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models?style=social&label=Stars)
 
 ## Code Repo
 
