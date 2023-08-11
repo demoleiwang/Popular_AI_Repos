@@ -23,6 +23,7 @@
 ## Code Repo
 
 ### NLP
+- [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | ![Stars](https://img.shields.io/github/stars/dair-ai/Prompt-Engineering-Guide?style=social&label=Stars)
 - [wizardlm](https://github.com/nlpxucan/wizardlm) | ![Stars](https://img.shields.io/github/stars/nlpxucan/wizardlm?style=social&label=Stars)
 - [webglm](https://github.com/thudm/webglm) | ![Stars](https://img.shields.io/github/stars/thudm/webglm?style=social&label=Stars)
 - [fingpt](https://github.com/ai4finance-foundation/fingpt) ![Stars](https://img.shields.io/github/stars/ai4finance-foundation/fingpt?style=social&label=Stars)
